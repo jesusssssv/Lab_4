@@ -2,7 +2,7 @@
  * LecturaADC_Displays.c - Versión optimizada con referencia VCC
  *
  * Created: 03/04/2025
- * Author: Jesus Valenzuela (con optimizaciones)
+ * Author: Jesus Valenzuela 
  * Description: Sistema con funcionalidades separadas:
  *              - Potenciómetro en A6 controla displays de 7 segmentos en formato hexadecimal
  *              - Botones controlan contador binario mostrado en LEDs
